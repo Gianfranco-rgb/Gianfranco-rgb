@@ -41,4 +41,4 @@ A classification model predicting passenger survival using the famous Titanic da
 ---
 
 📫 **Let’s connect!**  
-[gianfranco.email@gmail.com](mailto:gianfranco.email@gmail.com) • [LinkedIn](https://linkedin.com/in/gianfrancodamiani)
+[gianfranco.damiani@icloud.com](mailto:gianfranco.damiani@icloud.com) • [LinkedIn](www.linkedin.com/in/gianfranco-damiani-6997152ba)
