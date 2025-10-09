@@ -23,7 +23,7 @@ Exploratory analysis and clustering of users and items from a second-hand clothi
 A research project studying women’s representation in global diplomacy through data-driven metrics.  
 **Tech:** Python, pandas, data visualization  
 
-#### 🎬 [Netflix Data Analysis](https://github.com/gianfrancodamiani/netflix_analysis)
+#### 🎬 [Netflix Data Analysis](https://github.com/Gianfranco-rgb/netflix_analysis)
 An EDA project exploring Netflix titles by genre, country, and release year to understand viewing trends and diversity.  
 **Tech:** Python, pandas, seaborn, matplotlib  
 
