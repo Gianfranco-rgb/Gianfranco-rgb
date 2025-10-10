@@ -19,7 +19,7 @@ A predictive analysis of students’ final grades using demographic, family, and
 Exploratory analysis and clustering of users and items from a second-hand clothing dataset.  
 **Tech:** Python, SQL, Tableau  
 
-#### 🌍 [GenDip – Gender Diplomacy Dataset](https://github.com/gianfrancodamiani/gendip)
+#### 🌍 [GenDip – Gender Diplomacy Dataset](https://github.com/Gianfranco-rgb/Gendip_analysis)
 A research project studying women’s representation in global diplomacy through data-driven metrics.  
 **Tech:** Python, pandas, data visualization  
 
