@@ -27,7 +27,7 @@ A research project studying women’s representation in global diplomacy through
 An EDA project exploring Netflix titles by genre, country, and release year to understand viewing trends and diversity.  
 **Tech:** Python, pandas, seaborn, matplotlib  
 
-#### 🚢 [Titanic Survival Prediction – Machine Learning Model](https://github.com/gianfrancodamiani/titanic_ml)
+#### 🚢 [Titanic Survival Prediction – Machine Learning Model](https://github.com/Gianfranco-rgb/titanic_model)
 A classification model predicting passenger survival using the famous Titanic dataset.  
 **Tech:** Python, scikit-learn, logistic regression, random forest, feature engineering  
 
