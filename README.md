@@ -15,7 +15,7 @@ My tools of choice include **Python (pandas, scikit-learn, matplotlib)**, **SQL*
 A predictive analysis of students’ final grades using demographic, family, and behavioral data.  
 **Tech:** Python, scikit-learn, pandas, matplotlib, Tableau  
 
-#### 👗 [Second-Hand Marketplace Analysis](https://github.com/gianfrancodamiani/secondhand_marketplace)
+#### 👗 [Second-Hand Marketplace Analysis](https://github.com/Gianfranco-rgb/secondhand_marketplace_analysis)
 Exploratory analysis and clustering of users and items from a second-hand clothing dataset.  
 **Tech:** Python, SQL, Tableau  
 
