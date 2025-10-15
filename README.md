@@ -11,7 +11,7 @@ My tools of choice include **Python (pandas, scikit-learn, matplotlib)**, **SQL*
 
 ### 🚀 Featured Projects  
 
-#### 🧠 [Student POR – Predicting Portuguese Students’ Performance](https://github.com/gianfrancodamiani/student_por)
+#### 🧠 [Student POR – Predicting Portuguese Students’ Performance](https://github.com/Gianfranco-rgb/-Student-POR-Predicting-Portuguese-Students-Performance/blob/main/README.md)
 A predictive analysis of students’ final grades using demographic, family, and behavioral data.  
 **Tech:** Python, scikit-learn, pandas, matplotlib, Tableau  
 
