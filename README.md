@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gianfranco Damiani  
 
-🎓 Data Analyst & Data Science Student @ Start2Impact University  
+🎓 Data Analyst & Data Science @ Start2Impact University  
 📍 Based in Bologna, Italy   
 💡 Passionate about data-driven insights, storytelling, and meaningful analysis.  
 
